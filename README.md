@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on https://github.com/isaacurba/lga-community<br>👯 I’m looking to collaborate on Open source Projects<br>🌱 I’m currently learning MERN stack Development<br>⚡ Fun fact i learnt React and tailwindcss at the same time
+🔭 I’m currently working on https://github.com/isaacurba/lga-community check it out<br>👯 I’m looking to collaborate on Open source Projects<br>🌱 I’m currently learning MERN stack Development<br>⚡ Fun fact i learnt React and tailwindcss at the same time
 
 
 ## 🌐 Socials:
